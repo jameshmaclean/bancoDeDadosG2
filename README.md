@@ -17,7 +17,7 @@ Visando em confiança e agilidade na consulta de dados
 
 - Nosso sistema é capaz de realizar o cadastro de :
 
-  Produtos; Categorias; Usuários
+  Produtos; Categorias; Usuários;
 
 - O nosso sistema é capaz de gerar nota fiscal com os seguintes dados :
 
@@ -34,6 +34,8 @@ Tarefas:
 - [x] (Concluído) Cadastro de produtos
 - [x] (Concluído) Cadastro de categorias
 - [x] (Concluído) Cadastro de novos Usuário
+- [x] (Concluído) Telefone
+- [x] (Concluído) Endereço
 - [x] (Concluído) Itens pedidos
 - [x] (Concluído) Organização por pedidos
 - [x] (Concluído) Emissão de Nota Fiscal
@@ -55,5 +57,5 @@ git clone https://github.com/jameshmaclean/bancoDeDadosG2.git
 - @RafaelCarvalho90
 - @GuardiaoX
 - @xb-isa
-- @James Maclean
+- @jameshmaclean
 - @AnaClaraDamasceno18
